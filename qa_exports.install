@@ -1,0 +1,6 @@
+<?php
+
+function qa_exports_install() {
+  // Set up the taxonomy vocabulary that will be required by the exports.
+  
+}

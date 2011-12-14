@@ -1,0 +1,13 @@
+name = Q&A Exports
+description = Setup tasks and exported views/flags for Q&A
+dependencies[] = views
+dependencies[] = nodecomment
+dependencies[] = taxonomy
+dependencies[] = term_node_count
+dependencies[] = flag
+dependencies[] = flag_terms
+dependencies[] = votingapi
+dependencies[] = userpoints
+core = 6.x
+version = "6.x-1.1"
+core = "6.x"
